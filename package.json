@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ensdomains/ensjs": "3.0.0-beta.9",
+    "typescript": ">=5.0.4",
+    "viem": "^1.16.4"
+  }
+}
